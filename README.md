@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Amenan</h1>
 <h3 align="center">Data analyst from France</h3>
 
-- 🔭 I’m currently working on **ESG, Finance, Personal Budget Management Application, Global Food Price Inflation**
+- 🔭 I’m currently working on **ESG, Finance, Personal Budget Management Application, Global Food Price Inflation**      ![image](https://github.com/AmenanM/AmenanM/assets/74093136/788b8c79-6c3f-41c9-9107-b2775aaa9d49)
+
 
 - 📫 How to reach me **amenan.seydou@gmail.com**
 
@@ -16,5 +17,5 @@
 
 
 
-![image](https://github.com/AmenanM/AmenanM/assets/74093136/c30b38f1-5842-40d7-a4e8-e0e6662a553b)
+
 
