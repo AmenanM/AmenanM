@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Amenan</h1>
-<h3 align="center">Data analyst from France</h3>
+<h3 align="center">Data analyst, Paris</h3>
 
-- 🔭 I’m currently working on **ESG 🌏, Finance, Personal Budget Management Application 💸, Global Food Price Inflation 💰**    
+- 🔭 Product-oriented Data Analyst and Data/AI Consultant focused on designing innovative solutions and leveraging data and AI strategically. Proficient in Python, SQL, and visualization tools, delivering impactful insights for decision-making and process optimizatio**    
 
 
 - 📫 How to reach me **amenan.seydou@gmail.com**
