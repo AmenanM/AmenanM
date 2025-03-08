@@ -3,9 +3,9 @@
 
 Data Product Owner with a strong foundation in product management, AI use cases, and data-driven decision-making. I specialize in defining and developing data products, from concept to execution, ensuring they align with business goals and user needs.
 
-🔹 Experienced in AI-driven product strategy, leveraging machine learning and analytics to enhance productivity, risk management, and automation.
-🔹 Skilled in product roadmaps, feature definition, and agile development, working cross-functionally with engineering, design, and business teams.
-🔹 Expertise in data cataloging, visualization, and automation, enabling informed decision-making through interactive dashboards and AI-powered insights.
+- Experienced in AI-driven product strategy, leveraging machine learning and analytics to enhance productivity, risk management, and automation.
+- Skilled in product roadmaps, feature definition, and agile development, working cross-functionally with engineering, design, and business teams.
+- Expertise in data cataloging, visualization, and automation, enabling informed decision-making through interactive dashboards and AI-powered insights.
 
 
 - 📫 How to reach me **amenan.seydou@gmail.com**
