@@ -1,7 +1,11 @@
 <h1 align="center">Hi 👋, I'm Amenan</h1>
-<h3 align="center">Data analyst, Paris</h3>
+<h3 align="center">Data Product Owner, Paris</h3>
 
-- 🔭 Product-oriented Data Analyst and Data/AI Consultant focused on designing innovative solutions and leveraging data and AI strategically. Proficient in Python, SQL, and visualization tools, delivering impactful insights for decision-making and process optimizatio**    
+Product-oriented Data Product Owner with a strong foundation in product management, AI use cases, and data-driven decision-making. I specialize in defining and developing data products, from concept to execution, ensuring they align with business goals and user needs.
+
+🔹 Experienced in AI-driven product strategy, leveraging machine learning and analytics to enhance productivity, risk management, and automation.
+🔹 Skilled in product roadmaps, feature definition, and agile development, working cross-functionally with engineering, design, and business teams.
+🔹 Expertise in data cataloging, visualization, and automation, enabling informed decision-making through interactive dashboards and AI-powered insights.
 
 
 - 📫 How to reach me **amenan.seydou@gmail.com**
